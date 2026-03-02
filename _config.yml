@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://trailblazer-forward.github.io
+url: https://trailblazer-forward.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,9 +102,10 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/trailblazer-forward/trailblazer-forward.github.io
+  repo: git@github.com:trailblazer-forward/trailblazer-forward.github.io.git
   branch: main
   message: "Auto deployment"
+  token: $HEXO_GITHUB_TOKEN
 
 feed:
   type: atom
