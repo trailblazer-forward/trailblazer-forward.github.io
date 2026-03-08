@@ -14,3 +14,16 @@ math:
     # See: https://github.com/KaTeX/KaTeX/tree/master/contrib/copy-tex
     copy_tex: true
 
+giscus:
+  enable: true
+  repo: trailblazer-forward/trailblazer-forward.github.io
+  repo_id: R_kgDOML7FQA
+  category: Announcements
+  category_id: DIC_kwDOML7FQM4C371L
+  mapping: title
+  reactions_enabled: 1
+  emit_metadata: 0
+  input_position: top
+  lang: zh-CN
+  loading: lazy
+  crossorigin: anonymous
