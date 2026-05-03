@@ -27,3 +27,17 @@ giscus:
   lang: zh-CN
   loading: lazy
   crossorigin: anonymous
+
+avatar:
+  url: https://avatars.githubusercontent.com/u/170234274?v=4
+  rounded: false
+  rotated: true
+
+social:
+  Github: https://github.com/trailblazer-forward || fab fa-github
+  E-Mail: mailto:trailblazer.forward@outlook.com || fa fa-envelope
+
+social_icons:
+  enable: true
+  icons_only: false
+  transition: true
