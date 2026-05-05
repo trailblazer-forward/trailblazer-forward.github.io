@@ -41,3 +41,6 @@ social_icons:
   enable: true
   icons_only: false
   transition: true
+
+follow_me:
+  RSS: /atom.xml || fa fa-rss
