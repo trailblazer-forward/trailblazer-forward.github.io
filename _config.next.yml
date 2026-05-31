@@ -44,3 +44,7 @@ social_icons:
 
 follow_me:
   RSS: /atom.xml || fa fa-rss
+
+menu:
+  home: / || fa fa-home
+  about: /about/ || fa fa-user
