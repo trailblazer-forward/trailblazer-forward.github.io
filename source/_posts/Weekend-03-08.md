@@ -1,5 +1,5 @@
 ---
-title: Weekend 08-03
+title: Weekend 03-08
 tags: Life
 date: 2026-03-08 15:15:51
 katex: true
