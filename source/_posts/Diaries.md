@@ -1,7 +1,7 @@
 ---
 title: Diaries
 tags: Life
-date: 2026-05-02 20:37:54
+date: 2026-06-14 22:00
 ---
 
 
@@ -31,3 +31,13 @@ date: 2026-05-02 20:37:54
 
 1. DCS World F-15C 降落练习完成！
 2. 完成化学作业（作业好多...
+
+# 06-14
+
+下周三中考。
+
+今日所为：
+
+1. DCS 飞 F-14
+2. 配置好了 [vim man](https://github.com/vim-utils/vim-man) 插件
+3. 博客添加 search+tags+archives 页面
