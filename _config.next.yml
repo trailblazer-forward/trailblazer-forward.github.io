@@ -53,3 +53,9 @@ menu:
   about: /about/ || fa fa-user
   archives: /archives/ || fa fa-archive
   tags: /tags/ || fa fa-tags
+
+local_search:
+  enable: true
+  top_n_per_article: 1
+  unscape: false
+  preload: false
