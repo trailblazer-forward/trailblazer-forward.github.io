@@ -1,7 +1,7 @@
 ---
 title: Diaries
 tags: Life
-date: 2026-06-14 22:00
+date: 2026-06-20 22:00
 ---
 
 
@@ -41,3 +41,14 @@ date: 2026-06-14 22:00
 1. DCS 飞 F-14
 2. 配置好了 [vim man](https://github.com/vim-utils/vim-man) 插件
 3. 博客添加 search+tags+archives 页面
+
+# 06-20
+
+祝自己生日快乐！
+
+中考结束了......
+
+今日所为：
+
+1. 与朋友联机飞 F-14
+2. 估分
