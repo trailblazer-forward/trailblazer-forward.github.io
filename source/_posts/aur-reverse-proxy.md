@@ -26,9 +26,13 @@ t_@tlex ~ Mon 22 20:45
 
 为了提升访问的稳定性，考虑利用 Cloudflare Worker 搭建反向代理服务。
 
+## 配置 Cloudflare Worker
+
+详见 [清羽飞扬的博客](https://blog.liushen.fun/posts/dd89adc9#%E6%95%99%E7%A8%8B)。
+
 ## Worker 代码
 
-修改自 [清羽飞扬](https://blog.liushen.fun/posts/dd89adc9#%E4%B8%93%E7%94%A8%E8%BD%AC%E5%8F%91) 的博客
+修改自 [清羽飞扬](https://blog.liushen.fun/posts/dd89adc9#%E4%B8%93%E7%94%A8%E8%BD%AC%E5%8F%91)。
 
 ```javascript
 const upstream = 'aur.archlinux.org'
