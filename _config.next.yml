@@ -19,7 +19,7 @@ math:
 
 giscus:
   enable: true
-  repo: trailblazer-forward/trailblazer-forward.github.io
+  repo: trailblazer-forward/blogs
   repo_id: R_kgDOML7FQA
   category: Announcements
   category_id: DIC_kwDOML7FQM4C371L
